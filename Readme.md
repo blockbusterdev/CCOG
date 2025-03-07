@@ -19,7 +19,7 @@ Here're some of the project's best features:
 <p>Hybrid Application<p>
 
 <h2>💵License</h2>
-<p>Hybrid Application<p>
+<p>All right reserved<p>
 
 
 
