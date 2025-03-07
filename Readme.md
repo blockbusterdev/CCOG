@@ -10,16 +10,16 @@ Here're some of the project's best features:
 *   Cross-mobile/browser
 
 <h2>✏️Author</h2>
-- <p>Krasiuk Oleksii<p>
+<p>Krasiuk Oleksii<p>
 
 <h2>🕰️Published</h2>
-- <p>11/10/2022<p>
+<p>11/10/2022<p>
 
 <h2>📺Type</h2>
-- <p>Hybrid Application<p>
+<p>Hybrid Application<p>
 
 <h2>💵License</h2>
-- <p>Hybrid Application<p>
+<p>Hybrid Application<p>
 
 
 
