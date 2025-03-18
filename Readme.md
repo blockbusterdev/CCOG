@@ -10,7 +10,7 @@ Here're some of the project's best features:
 *   Cross-mobile/browser
 
 <h2>✏️Author</h2>
-<p>Krasiuk Oleksii<p>
+<p>Jiners Enoheart (Nickname)<p>
 
 <h2>🕰️Published</h2>
 <p>11/10/2022<p>
