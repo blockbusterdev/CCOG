@@ -9,9 +9,6 @@ Here're some of the project's best features:
 *   Hybrid Application
 *   Cross-mobile/browser
 
-<h2>✏️Author</h2>
-<p>Jiners Enoheart (Nickname)<p>
-
 <h2>🕰️Published</h2>
 <p>11/10/2022<p>
 
